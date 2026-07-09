@@ -7,7 +7,7 @@ from typing import AsyncGenerator, Generator
 from sqlalchemy.orm import Session
 from models import SessionLocal
 
-logger = logging.getLogger(__name__)
+logger = logging.getLogger(__name:__)
 
 
 @contextmanager
